@@ -1,1 +1,2 @@
-# Job-Scheduling
+In the work progress of any task in a typical Operating System (OS), many processes run concurrently in accordance to the system for completion of the task. These processes are dependent on each other in a complex way, thus making a dependency on each other, which can be represented in a Directed-Unweighted Graph.  
+Concerning to such dependency amongst the processes, a deadlock is defined to occur when a process enters a into a waiting state because of some other dependent process, which in turn waits for another and so on. As a result, all such processes are bound in a deadlock and can’t complete their execution. 
